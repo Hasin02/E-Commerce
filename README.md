@@ -12,15 +12,21 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
  
 🚀 Features
 
-    Sales Analysis – Track total revenue, profit margins, and sales trends.
-    Customer Insights – Identify customer demographics, preferences, and behaviors.
-    Product Performance – Analyze top-selling products and categories.
-    Time-Based Trends – View sales performance over different time periods.
+   Sales Analysis – Track total revenue, profit margins, and sales trends.
+   
+   Customer Insights – Identify customer demographics, preferences, and behaviors.
+   
+   Product Performance – Analyze top-selling products and categories.
+   
+   Time-Based Trends – View sales performance over different time periods.
 🛠️ Tools & Technologies
 
-    Power BI – Data visualization & reporting
-    Excel / CSV – Data preprocessing
-    SQL (if applicable) – Querying and filtering data
+   Power BI – Data visualization & reporting
+   
+   Excel / CSV – Data preprocessing
+   
+   SQL (if applicable) – Querying and filtering data
+   
 🔧 How to Use
 
   1. Clone the repository
