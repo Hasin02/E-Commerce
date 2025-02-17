@@ -36,13 +36,16 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
 📈 Future Enhancements
 
-    Integration with live data sources (SQL, APIs)
-    Advanced predictive analytics using ML models
-    More interactive dashboards for enhanced user experience
+   Integration with live data sources (SQL, APIs)
+   
+   Advanced predictive analytics using ML models
+   
+   More interactive dashboards for enhanced user experience
+   
 
 🤝 Contributing
 
-    Contributions are welcome! Feel free to fork this repository and submit a pull request.
+   Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 📩 Contact
 
