@@ -1,5 +1,7 @@
 📊 E-Commerce Sales Dashboard
+
 📌 Overview
+
 This repository contains a Power BI dashboard designed to analyze and visualize e-commerce sales data. The dashboard provides insights into key sales metrics, trends, and performance indicators to help businesses make data-driven decisions.
 
 📂 Repository Structure
